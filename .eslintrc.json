@@ -2,11 +2,11 @@
   "env": {
     "browser": true,
     "commonjs": true,
-    "es6": true
+    "node": true
   },
   "extends": [
     "eslint:recommended",
-    "airbnb-base",
+    "airbnb-base/legacy",
     "prettier"
   ],
   "globals": {
@@ -17,6 +17,7 @@
     "ecmaVersion": 11
   },
   "rules": {
-    "no-console": "off"
+    "no-console": "off",
+    "strict": "off"
   }
 }
