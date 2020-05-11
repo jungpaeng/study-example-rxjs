@@ -4,5 +4,9 @@
   "license": "MIT",
   "dependencies": {
     "rxjs": "^6.5.5"
+  },
+  "devDependencies": {
+    "eslint": "^7.0.0",
+    "eslint-config-airbnb-base": "^14.1.0"
   }
 }
