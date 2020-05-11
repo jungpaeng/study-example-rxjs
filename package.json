@@ -1,0 +1,8 @@
+{
+  "name": "study-example-rxjs",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "rxjs": "^6.5.5"
+  }
+}
