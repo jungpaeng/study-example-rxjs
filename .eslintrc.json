@@ -6,7 +6,8 @@
   },
   "extends": [
     "eslint:recommended",
-    "airbnb-base"
+    "airbnb-base",
+    "prettier"
   ],
   "globals": {
     "Atomics": "readonly",
